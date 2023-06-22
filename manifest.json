@@ -1,0 +1,12 @@
+{
+    "name":"Chrome Local Storage", 
+    "version":"1.0",
+    "description":"this is a Chrome Local Storage", 
+    "manifest_version":3,   
+    "action":{
+        "default_title":"dynamic popup",
+        "default_popup":"popup.html",
+        "default_icon":"mahi.png"
+    },
+    "permissions":["storage"]
+}
